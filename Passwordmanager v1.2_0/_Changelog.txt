@@ -12,5 +12,5 @@ v1.2_0
   for reliability reasons
 - Added a dropdown Menu within the Creation Menu featuring Instructions and options for
   automated password generation
-- Minor graphical improvements, font and size changes.
+- Minor graphical improvements, font and size changes
 
