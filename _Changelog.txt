@@ -1,0 +1,16 @@
+v1.1_1
+
+- First public version added to GitHub.com/GBPierce
+
+v1.2_0
+
+- Updated the version number
+- Implemented the Storage file into the actual executeable, 
+  rather than having it flying around
+- Added Icons to the main Window aswell as the sub Windows and popup Windows
+- Changed the entire password saving and searching algorhytm from the ground up 
+  for reliability reasons
+- Added a dropdown Menu within the Creation Menu featuring Instructions and options for
+  automated password generation
+- Minor graphical improvements, font and size changes.
+
