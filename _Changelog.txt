@@ -1,16 +1,23 @@
 v1.1_1
 
-- First public version added to GitHub.com/GBPierce
+- First public Version added to GitHub.com/GBPierce
 
 v1.2_0
 
-- Updated the version number
-- Implemented the Storage file into the actual executeable, 
-  rather than having it flying around
-- Added Icons to the main Window aswell as the sub Windows and popup Windows
-- Changed the entire password saving and searching algorhytm from the ground up 
-  for reliability reasons
-- Added a dropdown Menu within the Creation Menu featuring Instructions and options for
-  automated password generation
-- Minor graphical improvements, font and size changes
+- Implemented the Storage file into the actual executable
+- Added Icons to the Windows
+- Changed the entire password saving, reading and writing algorithm
+- Added a dropdown Menu to the Creation Menu interface featuring further Instructions
+- Added automated password generation within the dropdown Menu
+- Minor graphical improvements, font and size adjustments
 
+v1.2_1                  
+
+- Added a dropdown Menu to the Main interface featuring general Information and Changes
+- Added a Checkbutton providing the option to either show or hide the passwords while 
+  outputting, as well as creating them
+- Added a Button to the Password Finder interface copying the output password to your
+  clipboard
+- Removed the Info button from the Main menu to make
+  space for an upcoming Settings menu
+- Resized some of the Windows
